@@ -51,9 +51,20 @@
             // numericAge
             // 
             this.numericAge.Location = new System.Drawing.Point(12, 29);
+            this.numericAge.Maximum = new decimal(new int[] {
+            -1304428545,
+            434162106,
+            542,
+            0});
+            this.numericAge.Minimum = new decimal(new int[] {
+            -469762049,
+            -590869294,
+            5421010,
+            -2147483648});
             this.numericAge.Name = "numericAge";
             this.numericAge.Size = new System.Drawing.Size(176, 20);
             this.numericAge.TabIndex = 1;
+            this.numericAge.ValueChanged += new System.EventHandler(this.numericAge_ValueChanged);
             // 
             // label1
             // 
@@ -73,9 +84,15 @@
             1042612833,
             542101086,
             0});
+            this.numericPrice.Minimum = new decimal(new int[] {
+            -824286653,
+            1517416591,
+            17522459,
+            -2147483648});
             this.numericPrice.Name = "numericPrice";
             this.numericPrice.Size = new System.Drawing.Size(176, 20);
             this.numericPrice.TabIndex = 3;
+            this.numericPrice.ValueChanged += new System.EventHandler(this.numericPrice_ValueChanged);
             // 
             // btnCalculate
             // 

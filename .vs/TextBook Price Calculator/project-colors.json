@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61438692-ed00-4145-839e-38a35ff7ff23": {
+      "ProjectGuid": "61438692-ed00-4145-839e-38a35ff7ff23",
+      "DisplayName": "TextBook Price Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
