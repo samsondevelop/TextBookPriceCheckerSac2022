@@ -1,0 +1,11 @@
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\bin\Debug\TextBook Price Calculator.exe.config
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\bin\Debug\TextBook Price Calculator.exe
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\bin\Debug\TextBook Price Calculator.pdb
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\obj\Debug\TextBook Price Calculator.csproj.AssemblyReference.cache
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\obj\Debug\TextBook Price Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\obj\Debug\TextBook_Price_Calculator.Form1.resources
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\obj\Debug\TextBook_Price_Calculator.Properties.Resources.resources
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\obj\Debug\TextBook Price Calculator.csproj.GenerateResource.cache
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\obj\Debug\TextBook Price Calculator.csproj.CoreCompileInputs.cache
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\obj\Debug\TextBook Price Calculator.exe
+C:\Users\samson\source\repos\TextBook Price Calculator\TextBook Price Calculator\obj\Debug\TextBook Price Calculator.pdb

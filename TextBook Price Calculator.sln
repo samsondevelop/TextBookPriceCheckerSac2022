@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBook Price Calculator", "TextBook Price Calculator\TextBook Price Calculator.csproj", "{61438692-ED00-4145-839E-38A35FF7FF23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61438692-ED00-4145-839E-38A35FF7FF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61438692-ED00-4145-839E-38A35FF7FF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61438692-ED00-4145-839E-38A35FF7FF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61438692-ED00-4145-839E-38A35FF7FF23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC2D369-F112-42E6-9D53-67D2C664EBAA}
+	EndGlobalSection
+EndGlobal
